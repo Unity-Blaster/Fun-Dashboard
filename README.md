@@ -1,2 +1,3 @@
 # Fun-Dashboard
-# Fun-Dashboard
+
+Just a fun lil dashboard.
